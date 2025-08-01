@@ -2,6 +2,16 @@
   "name": "mind-elixir-toggle-all-node",
   "version": "0.0.1",
   "type": "module",
+  "description": "mind elixir plugin to toggle all nodes",
+  "keywords": [
+    "mind elixir toggle all nodes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GuangAD/mind-elixir-toggle-all-node"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/GuangAD/mind-elixir-toggle-all-node",
   "files": [
     "dist"
   ],
